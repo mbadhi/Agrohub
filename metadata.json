@@ -1,0 +1,7 @@
+{
+  "name": "AgroCART",
+  "description": "A comprehensive agribusiness ecosystem connecting farmers, agro-shops, and customers. Features AI-driven price suggestions, weather insights, and a multi-role marketplace dashboard.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
